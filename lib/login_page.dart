@@ -3,7 +3,7 @@ import 'theme.dart';
 
 /// Prototype auth: in-memory accounts. Replace with Firebase Auth later.
 final Map<String, Map<String, String>> _accounts = {
-  'demo@splyce.app': {'name': 'Diyana', 'password': 'demo1234'},
+  'raseena@gmail.com': {'name': 'Raseena', 'password': 'raseena'},
 };
 
 class LoginPage extends StatefulWidget {
